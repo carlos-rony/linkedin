@@ -1,0 +1,2 @@
+# linkedin
+trabalho angular
